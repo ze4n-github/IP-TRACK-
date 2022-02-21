@@ -9,7 +9,7 @@ pkg install python
 
 pkg install git
 
-git clone 
+git clone https://github.com/ze4n-github/IP-TRACK-
 
 cd IP-TRACK-
 
