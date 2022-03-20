@@ -13,6 +13,5 @@ git clone https://github.com/ze4n-github/IP-TRACK-
 
 cd IP-TRACK-
 
-python instalación.py
 
 python IPTRACK.py
