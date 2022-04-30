@@ -27,7 +27,7 @@ time.sleep(1)
 print("--------------------------------------")
 
 time.sleep(1)
-print("INSTAGRAM: ze4n.py")
+print("INSTAGRAM: ze4n.sh")
 time.sleep(1)
 print("--------------------------------------")
 time.sleep(1)
